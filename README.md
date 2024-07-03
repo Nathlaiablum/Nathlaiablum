@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🤍
 
-<!--
-**Nathlaiablum/Nathlaiablum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nathalia Blum
 
-Here are some ideas to get you started:
+- Estou estudado no [Alura](https://www.alura.com.br)
+- Estou aprendendo aprendendo a progamar no JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entar em contato comigo 📫
+
+nathalia.blum@escola.pr.gov.br
+
+intg:@nathalia.blum
+
+![](https://media1.tenor.com/m/4uKKrj5fSPAAAAAC/hello-anxiety.gif)
